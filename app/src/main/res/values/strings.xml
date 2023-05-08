@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LittleLemonCapstoneApp</string>
+    <string name="lets_get_to_know_you">Let\'s get to know you</string>
+    <string name="title">Little Lemon</string>
+    <string name="location">Chicago</string>
+    <string name="description">We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.</string>
+    <string name="order_button_text">Order Take Away</string>
+    <string name="weekly_special">Weekly Special</string>
+    <string name="add_for">Add for</string>
+</resources>
